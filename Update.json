@@ -2,7 +2,6 @@
   "versionCode": 2,
   "versionName": "1.1",
   "updateMessage": "1. 修复 XX\n2. 新增 YY",
-  "netDiskUrl": "https://www.guangyapan.com/s/1953270038357852227_aq7-yoJTMRHNeyid",
-  "netDiskPwd": "abcd",
-  "forceUpdate": false
+  "netDiskUrl": "https://drive.uc.cn/s/5ae91373d4544?public=1"
+  "forceUpdate": true
 }
